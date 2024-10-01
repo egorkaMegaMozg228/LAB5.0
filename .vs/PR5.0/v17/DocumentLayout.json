@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zemts\\source\\repos\\PR5.0\\",
+  "WorkspaceRootPath": "C:\\Users\\zemts\\source\\repos\\PR5.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8AA1BBA-F9F7-431B-9935-9ABC0F9FD21C}|PR5.0.vcxproj|C:\\Users\\zemts\\source\\repos\\PR5.0\\PR5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1947DB55-C060-4E51-A22C-8EC5AC5679A3}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\Users\\zemts\\source\\repos\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AA1BBA-F9F7-431B-9935-9ABC0F9FD21C}|PR5.0.vcxproj|C:\\Users\\zemts\\source\\repos\\PR5.1\\PR5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A8AA1BBA-F9F7-431B-9935-9ABC0F9FD21C}|PR5.0.vcxproj|solutionrelative:PR5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,14 +22,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PR5.0.cpp",
-              "DocumentMoniker": "C:\\Users\\zemts\\source\\repos\\PR5.0\\PR5.0.cpp",
-              "RelativeDocumentMoniker": "PR5.0.cpp",
-              "ToolTip": "C:\\Users\\zemts\\source\\repos\\PR5.0\\PR5.0.cpp",
-              "RelativeToolTip": "PR5.0.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\zemts\\source\\repos\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\zemts\\source\\repos\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T19:53:02.234Z",
+              "WhenOpened": "2024-10-01T17:01:19.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR5.0.cpp",
+              "DocumentMoniker": "C:\\Users\\zemts\\source\\repos\\PR5.1\\PR5.0.cpp",
+              "RelativeDocumentMoniker": "PR5.0.cpp",
+              "ToolTip": "C:\\Users\\zemts\\source\\repos\\PR5.1\\PR5.0.cpp",
+              "RelativeToolTip": "PR5.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T16:57:43.933Z",
               "EditorCaption": ""
             }
           ]
